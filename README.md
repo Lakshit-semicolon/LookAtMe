@@ -10,3 +10,6 @@ A cross-platform utility using eye tracking and pose estimation to play/pause vi
 
 Currently supports Netflix only.</br>
 LookAtMe must be running in the background, while streaming on Netflix.
+</br>
+<h1>Contributions</h1></br>
+Rahul Veer Singh
