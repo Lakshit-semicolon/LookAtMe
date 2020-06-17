@@ -1,4 +1,4 @@
-<h1>WatchMe</h1>
+<h1>LookAtMe</h1>
 A cross-platform utility using eye tracking and pose estimation to play/pause videos based on if the user is looking at/away from the screen.
 
 <h1>Dependencies:</h1></br>
@@ -9,4 +9,4 @@ A cross-platform utility using eye tracking and pose estimation to play/pause vi
 3.pyautogui for GUI automation</br>
 
 Currently supports Netflix only.</br>
-WatchMe must be running in the background, while streaming on Netflix.
+LookAtMe must be running in the background, while streaming on Netflix.
