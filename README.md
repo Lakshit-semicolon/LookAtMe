@@ -1,12 +1,12 @@
-WatchMe
+<h1>WatchMe</h1>
 A cross-platform utility using eye tracking and pose estimation to play/pause videos based on if the user is looking at/away from the screen.
 
-Dependencies:
-1.OpenCV v3
+<h1>Dependencies:</h1></br>
+1.OpenCV v3</br>
 
-2.psutils for process management
+2.psutils for process management</br>
 
-3.pyautogui for GUI automation
+3.pyautogui for GUI automation</br>
 
-Currently supports Netflix only.
+Currently supports Netflix only.</br>
 WatchMe must be running in the background, while streaming on Netflix.
